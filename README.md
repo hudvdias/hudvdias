@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hudvdias!
-- 👀 I’m interested in javascript, typescript, nodejs, react and react native.
+- 👀 My skills are javascript, typescript, nodejs, react and react native.
 - 📫 [Linkedin](https://www.linkedin.com/in/hudvdias/)
