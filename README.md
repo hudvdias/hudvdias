@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @hudvdias!
-- 👀 My skills are javascript, typescript, nodejs, react and react native.
-- 📫 [Linkedin](https://www.linkedin.com/in/hudvdias/)
+Hi, I am Hudson Dias, a Typescript full-stack developer.
